@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FunLauncher</string>
+    <string name="drawer_button_name">应用列表</string>
+</resources>
